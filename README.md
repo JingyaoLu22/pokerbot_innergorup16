@@ -119,3 +119,4 @@ For grading, we need insight in your development process. Make sure to motivate 
 We also recommend that you record a video where you play a game with your bot (hand-in via Canvas). This recording acts as a backup in case we are unable to run your bot ourselves. You can also use this video to further explain your approach and design choices (if you like).
 
 We highly encourage you to play some online games before you finish the assignment (this might reveal some weak points in your agent implementation). If you want to join the (optional) tournament at the end of the course, then prior online participation in a four-card game is mandatory.# pokerbot_innergorup16
+# pokerbot_innergorup16
